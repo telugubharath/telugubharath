@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bharathtelugu
+- 👋 Hi, I’m Bharath
 - 👀 I’m interested in Web Development 
 
-- 📫 How to reach me bharath738610@gmail.com
+- 📫 How to reach me bharathtelugu.ck@gmail.com
 - ⚡ Fun fact I am not only a man behind the computer.
 
 <!--
